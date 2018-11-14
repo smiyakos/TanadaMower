@@ -1,0 +1,6 @@
+sudo blueman-manager &
+FTR-15 right click
+menu select Serial Port
+serial connection
+
+sudo python btctrl.py
