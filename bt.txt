@@ -1,4 +1,14 @@
 sudo blueman-manager &
+
+Search
+98:D3:32:10:6A:3F
+Pair
+ID: 1234
+(Trust)
+
+Rename
+FTR-15
+
 FTR-15 right click
 menu select Serial Port
 serial connection
